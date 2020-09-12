@@ -18,6 +18,7 @@
     "electron-is-dev": "^1.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-json-tree": "^0.13.0",
     "react-scripts": "3.4.3"
   },
   "scripts": {
